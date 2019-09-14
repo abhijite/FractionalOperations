@@ -12,4 +12,8 @@
 * Run the project using Ctrl-F5
 * program.cs contains all the application logic
 
-
+### Screenshots:
+![Screenshot](https://github.com/abhijite/FractionalOperations/blob/master/screenshots/Screen%20Shot%202019-09-14%20at%205.23.32%20PM.png)
+![Screenshot](https://github.com/abhijite/FractionalOperations/blob/master/screenshots/Screen%20Shot%202019-09-14%20at%205.23.52%20PM.png)
+![Screenshot](https://github.com/abhijite/FractionalOperations/blob/master/screenshots/Screen%20Shot%202019-09-14%20at%205.24.19%20PM.png)
+![Screenshot](https://github.com/abhijite/FractionalOperations/blob/master/screenshots/Screen%20Shot%202019-09-14%20at%205.24.39%20PM.png)
