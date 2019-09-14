@@ -1,6 +1,5 @@
 # Fractional Operations
 
-### Console application that performs operations on two fractional numbers
 * Valid number formats:
   * 1_1/4 (1.25)
   * 1/2 (0.5)
